@@ -10,3 +10,6 @@ multiplayer functionality and implementation of computer controlled intelligent
 opponents
 
 
+<p align="center"><img src="https://c.tenor.com/1LdvUxoO-MEAAAAC/snake-game.gif" width="800px"></p>
+
+
